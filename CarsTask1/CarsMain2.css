@@ -1,0 +1,119 @@
+body{
+    background-color:black;
+    color: white;
+    /* font-family: "Times New Roman"; */
+
+}
+
+.header{
+    padding: 0px 250px;
+    
+
+}
+.header .f,.t,.r,.g,.i
+{
+    padding-bottom: 50px;
+}
+.header .line{
+   
+    position: relative;
+    bottom: 383px;
+    
+    
+}
+.header .H,.A,.M,.G,.C{
+    color:white;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0 20 px ;
+    margin: 0;
+}
+
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 8px;
+    color:#8f8f89;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    right: 25px;
+    
+
+}
+.active{
+    background-color:#3399fe;
+    color: white;
+    
+}
+
+
+
+.header .body{
+   
+    background-color:#cccccc;
+    width: 1000px;
+
+}
+.header .body .main{
+    margin-left:20px;
+    margin-right:10px;
+    width: 950px;
+    height: 700px;
+   
+    color:#494849;
+}
+.header .body .banner2{
+    background-position: top center;
+    padding: 10px 10px 0 10px;
+}
+
+.header .body .main .head{
+    color: #3399fe ;
+    font-size:19px;
+    font-family: bold;
+}
+
+.header .body .main .first{
+
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.header .body .main .second{
+
+    text-align: justify;
+    padding-top: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.header .body .main .car1{
+padding: 0 35px 35px 70px;
+
+}
+.header .body .main .car2{
+    padding-bottom:35px;
+    
+    }
+.header .body .main .car3{
+        padding-right:35px;
+        padding-left: 70px;
+        
+}
+
+
+.header .body .footer1,.footer2{
+    color: #494849;
+    text-align: center;
+   
+}
+
+.header .body .footer2{
+ position: relative;
+    bottom: 15px;
+}

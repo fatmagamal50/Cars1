@@ -1,0 +1,155 @@
+body{
+    background-color:black;
+    color: white;
+    /* font-family: "Times New Roman"; */
+
+}
+
+.header{
+    padding: 0px 200px;
+    
+
+}
+.header .f,.t,.r,.g,.i
+{
+    padding-bottom: 50px;
+}
+.header .line{
+   
+    position: relative;
+    bottom: 427px;
+    
+    
+}
+.header .H,.A,.M,.G,.C{
+    color:white;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0 20 px ;
+    margin: 0;
+}
+
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 8px;
+    color:#8f8f89;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    right: 25px;
+    
+
+}
+.active{
+    background-color:#3399fe;
+    color: white;
+    
+}
+
+.header .body{
+   
+    background-color:#cccccc;
+  
+
+}
+.header .body .banner1{
+    background-position: top center;
+    padding: 10px;
+}
+.header .body .left .head{
+    color: #3399fe ;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size:19px;
+    font-family: bold;
+}
+.header .body .right .head2{
+    color: #3399fe ;
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 80px;
+    padding-left: 10px;
+    font-size:19px;
+
+}
+.header .body .left{
+
+    margin-left:20px;
+    width:650px ;
+    height: 100px;
+    color:#494849;
+   
+}
+.header .body .right{
+
+    width: 280px;
+   
+    color:#494849;
+    position: relative;
+    bottom:115px;
+    left: 730px;
+    
+}
+.header .body .left .first,.second{
+  text-align: justify;
+  padding-top: 10px;
+  
+}
+.header .body .left .second{
+margin-bottom: 40px;
+}
+
+.header .body .left  ul{
+   
+    list-style-type:disc;
+    text-align: justify;
+    padding-bottom: 15px;
+    
+}
+
+.header .body .left .car1,.car2{
+   
+    border:white 2px solid ;
+    padding: 4px;
+
+}
+.header .body .left .car2{
+    
+    margin-left: 30px;
+    
+}
+.header .body .right .orange{
+    color: #ff6904;
+    padding-top: 5px;
+}
+.header .body .right .date{
+    color: #3399fe ;
+    position: relative;
+    bottom: 15px;
+}
+.header .body .right .thrid,.forth{
+
+    text-align: justify;
+    position: relative;
+    bottom: 20px;
+}
+
+.header .body .footer1,.footer2{
+    color: #494849;
+    text-align: center;
+   
+}
+
+.header .body .footer2{
+ position: relative;
+    bottom: 15px;
+}
+
+mark{
+    visibility: hidden;
+}
