@@ -24,17 +24,17 @@ body{
 .header .H,.A,.M,.G,.C{
     color:white;
 }
-ul{
+.gg{
     list-style-type: none;
     overflow: hidden;
     padding: 0 20 px ;
     margin: 0;
 }
 
-li{
+.gg li{
     float: left;
 }
-li a{
+.gg li a{
     display: block;
     padding: 8px;
     color:#8f8f89;
@@ -104,7 +104,7 @@ li a{
 margin-bottom: 40px;
 }
 
-.header .body .left  ul{
+.header .body .left  .hh{
    
     list-style-type:disc;
     text-align: justify;
@@ -148,8 +148,4 @@ margin-bottom: 40px;
 .header .body .footer2{
  position: relative;
     bottom: 15px;
-}
-
-mark{
-    visibility: hidden;
 }
